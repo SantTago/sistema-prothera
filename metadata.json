@@ -1,0 +1,7 @@
+{
+  "name": "Dilepé 3D - Portal de Solicitação",
+  "description": "Sistema profissional para solicitação de órteses 3D (coletes), com formulários detalhados para dados clínicos, medições anatômicas e anexos de arquivos médicos.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
